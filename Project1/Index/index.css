@@ -1,0 +1,25 @@
+
+
+body {
+    Background: green; (property value is blue)
+    background-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:18px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    text-transform:uppercase;
+    width:100%;
+	text-align:center;
+}
+
+h1 {
+    font-size:18px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:left;
+}
+
+
